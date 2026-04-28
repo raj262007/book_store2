@@ -1,0 +1,552 @@
+[
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "category": "Horror",
+    "rating": 4.8,
+    "summary": "A psychological horror novel about a family isolated in a haunted hotel during winter. Perfect for students interested in psychological thrillers and suspense.",
+    "publishedYear": 1977,
+    "downloadUrl": "https://example.com/the-shining.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=The+Shining"
+  },
+  {
+    "title": "It",
+    "author": "Stephen King",
+    "category": "Horror",
+    "rating": 4.7,
+    "summary": "An epic horror novel featuring a group of friends battling a shape-shifting entity in their hometown. A must-read for horror enthusiasts.",
+    "publishedYear": 1986,
+    "downloadUrl": "https://example.com/it.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=It"
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "category": "Horror",
+    "rating": 4.6,
+    "summary": "A classic gothic horror about four researchers investigating a supposedly haunted mansion. Atmospheric and deeply unsettling.",
+    "publishedYear": 1959,
+    "downloadUrl": "https://example.com/hill-house.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Hill+House"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Story",
+    "rating": 4.9,
+    "summary": "A timeless tale of love, ambition, and the American Dream. Essential reading for students studying literature.",
+    "publishedYear": 1925,
+    "downloadUrl": "https://example.com/gatsby.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=The+Great+Gatsby"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Story",
+    "rating": 4.9,
+    "summary": "A gripping story about race, justice, and growing up in the American South. A cornerstone of modern literature.",
+    "publishedYear": 1960,
+    "downloadUrl": "https://example.com/mockingbird.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Mockingbird"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Story",
+    "rating": 4.8,
+    "summary": "A romantic novel exploring themes of love, social status, and personal growth. Perfect for literature and romance lovers.",
+    "publishedYear": 1813,
+    "downloadUrl": "https://example.com/pride-prejudice.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Pride+and+Prejudice"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Story",
+    "rating": 4.7,
+    "summary": "A dystopian novel depicting a totalitarian society. Essential for understanding political themes and philosophical concepts.",
+    "publishedYear": 1949,
+    "downloadUrl": "https://example.com/1984.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=1984"
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "category": "History",
+    "rating": 4.6,
+    "summary": "An ancient epic poem describing Odysseus's journey home after the Trojan War. Foundation of Western literature.",
+    "publishedYear": 1725,
+    "downloadUrl": "https://example.com/odyssey.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=The+Odyssey"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "category": "History",
+    "rating": 4.5,
+    "summary": "A groundbreaking exploration of black holes, the Big Bang, and the nature of time. Perfect for science-minded students.",
+    "publishedYear": 1988,
+    "downloadUrl": "https://example.com/brief-history.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Brief+History"
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "History",
+    "rating": 4.7,
+    "summary": "A fascinating overview of human history from the Stone Age to modernity. Excellent for understanding civilization.",
+    "publishedYear": 2011,
+    "downloadUrl": "https://example.com/sapiens.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Sapiens"
+  },
+  {
+    "title": "The Rise and Fall of the Third Reich",
+    "author": "William L. Shirer",
+    "category": "History",
+    "rating": 4.6,
+    "summary": "A comprehensive history of Nazi Germany. Essential reading for understanding World War II.",
+    "publishedYear": 1960,
+    "downloadUrl": "https://example.com/third-reich.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Third+Reich"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "category": "Education",
+    "rating": 4.7,
+    "summary": "An exploration of human psychology and decision-making. Invaluable for understanding cognitive biases.",
+    "publishedYear": 2011,
+    "downloadUrl": "https://example.com/fast-slow.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Fast+and+Slow"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "category": "Education",
+    "rating": 4.8,
+    "summary": "A practical guide to building better habits and breaking bad ones. Perfect for students seeking self-improvement.",
+    "publishedYear": 2018,
+    "downloadUrl": "https://example.com/atomic-habits.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Atomic+Habits"
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Education",
+    "rating": 4.6,
+    "summary": "Rules for focused success in a distracted world. Essential reading for students serious about productivity.",
+    "publishedYear": 2016,
+    "downloadUrl": "https://example.com/deep-work.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Deep+Work"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "category": "Education",
+    "rating": 4.5,
+    "summary": "A guide to building successful startups with minimal resources. Great for entrepreneurial students.",
+    "publishedYear": 2011,
+    "downloadUrl": "https://example.com/lean-startup.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Lean+Startup"
+  },
+  {
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "category": "Education",
+    "rating": 4.6,
+    "summary": "A timeless guide to interpersonal skills and communication. Beneficial for all students.",
+    "publishedYear": 1936,
+    "downloadUrl": "https://example.com/win-friends.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Win+Friends"
+  },
+  {
+    "title": "The Road Not Taken",
+    "author": "Robert Frost",
+    "category": "Poem",
+    "rating": 4.7,
+    "summary": "A collection of poetry exploring themes of choice, nature, and life. Ideal for literature students.",
+    "publishedYear": 1916,
+    "downloadUrl": "https://example.com/road-not-taken.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=The+Road"
+  },
+  {
+    "title": "Paradise Lost",
+    "author": "John Milton",
+    "category": "Poem",
+    "rating": 4.5,
+    "summary": "An epic poem depicting the fall of Satan and Adam's temptation. A masterpiece of English literature.",
+    "publishedYear": 1667,
+    "downloadUrl": "https://example.com/paradise-lost.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Paradise+Lost"
+  },
+  {
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "category": "Poem",
+    "rating": 4.4,
+    "summary": "A collection of poems celebrating human experience and nature. Influential for American literature.",
+    "publishedYear": 1855,
+    "downloadUrl": "https://example.com/leaves-grass.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Leaves+of+Grass"
+  },
+  {
+    "title": "The Raven",
+    "author": "Edgar Allan Poe",
+    "category": "Poem",
+    "rating": 4.6,
+    "summary": "A gothic narrative poem of psychological terror. Perfect for poetry and horror enthusiasts.",
+    "publishedYear": 1845,
+    "downloadUrl": "https://example.com/raven.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=The+Raven"
+  },
+  {
+    "title": "Howl",
+    "author": "Allen Ginsberg",
+    "category": "Poem",
+    "rating": 4.5,
+    "summary": "A controversial poem capturing the Beat Generation spirit. Important for understanding modern poetry.",
+    "publishedYear": 1956,
+    "downloadUrl": "https://example.com/howl.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Howl"
+  },
+  {
+    "title": "The Godfather",
+    "author": "Mario Puzo",
+    "category": "Movies",
+    "rating": 4.9,
+    "summary": "A legendary novel about the Corleone crime family. Basis for the iconic film trilogy.",
+    "publishedYear": 1969,
+    "downloadUrl": "https://example.com/godfather.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=The+Godfather"
+  },
+  {
+    "title": "Jaws",
+    "author": "Peter Benchley",
+    "category": "Movies",
+    "rating": 4.6,
+    "summary": "A thrilling tale of a great white shark terrorizing a beach town. Basis for Spielberg's classic film.",
+    "publishedYear": 1974,
+    "downloadUrl": "https://example.com/jaws.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Jaws"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "category": "Movies",
+    "rating": 4.7,
+    "summary": "A dystopian adventure about survival and rebellion. Perfect for fans of action and adventure.",
+    "publishedYear": 2008,
+    "downloadUrl": "https://example.com/hunger-games.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Hunger+Games"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "category": "Movies",
+    "rating": 4.8,
+    "summary": "An epic science fiction novel set on a desert planet. A complex and rewarding read.",
+    "publishedYear": 1965,
+    "downloadUrl": "https://example.com/dune.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Dune"
+  },
+  {
+    "title": "The Matrix",
+    "author": "Lana Wachowski, Lilly Wachowski",
+    "category": "Movies",
+    "rating": 4.7,
+    "summary": "A revolutionary science fiction concept exploring reality and consciousness. Influential film property.",
+    "publishedYear": 1999,
+    "downloadUrl": "https://example.com/matrix.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=The+Matrix"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "category": "Horror",
+    "rating": 4.8,
+    "summary": "A gripping psychological thriller featuring an FBI trainee and a brilliant serial killer. Masterful tension building.",
+    "publishedYear": 1988,
+    "downloadUrl": "https://example.com/silence-lambs.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Silence+of+Lambs"
+  },
+  {
+    "title": "The Stand",
+    "author": "Stephen King",
+    "category": "Horror",
+    "rating": 4.7,
+    "summary": "An epic post-apocalyptic horror novel about survivors of a devastating plague. King's longest work.",
+    "publishedYear": 1978,
+    "downloadUrl": "https://example.com/the-stand.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=The+Stand"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "category": "Story",
+    "rating": 4.5,
+    "summary": "A coming-of-age story about teenage alienation and angst. A classic of American literature.",
+    "publishedYear": 1951,
+    "downloadUrl": "https://example.com/catcher-rye.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Catcher+in+Rye"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "category": "Story",
+    "rating": 4.4,
+    "summary": "A dark romantic novel set on the Yorkshire moors. Features complex characters and passionate relationships.",
+    "publishedYear": 1847,
+    "downloadUrl": "https://example.com/wuthering-heights.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Wuthering+Heights"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "category": "Story",
+    "rating": 4.6,
+    "summary": "A pioneering novel featuring an independent female protagonist. Important for feminist literature.",
+    "publishedYear": 1847,
+    "downloadUrl": "https://example.com/jane-eyre.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Jane+Eyre"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "category": "Horror",
+    "rating": 4.6,
+    "summary": "A groundbreaking gothic novel about scientific ambition and creation. The first science fiction novel.",
+    "publishedYear": 1818,
+    "downloadUrl": "https://example.com/frankenstein.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Frankenstein"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "category": "Horror",
+    "rating": 4.5,
+    "summary": "An epistolary horror novel about a vampire's invasion of England. A classic of Gothic literature.",
+    "publishedYear": 1897,
+    "downloadUrl": "https://example.com/dracula.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Dracula"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "category": "Story",
+    "rating": 4.7,
+    "summary": "An adventure novel about revenge and redemption. A thrilling tale of escape and fortune.",
+    "publishedYear": 1844,
+    "downloadUrl": "https://example.com/monte-cristo.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Monte+Cristo"
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "category": "Story",
+    "rating": 4.6,
+    "summary": "An epic novel of justice, redemption, and love during the French Revolution. Lengthy but rewarding.",
+    "publishedYear": 1862,
+    "downloadUrl": "https://example.com/miserables.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Les+Miserables"
+  },
+  {
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "category": "Story",
+    "rating": 4.5,
+    "summary": "A surreal novella about a man transformed into an insect. Explores existential themes.",
+    "publishedYear": 1915,
+    "downloadUrl": "https://example.com/metamorphosis.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Metamorphosis"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "category": "Story",
+    "rating": 4.7,
+    "summary": "A psychological novel about a student who commits murder. Explores guilt and redemption.",
+    "publishedYear": 1866,
+    "downloadUrl": "https://example.com/crime-punishment.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Crime+and+Punishment"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "category": "History",
+    "rating": 4.6,
+    "summary": "An epic novel spanning the Napoleonic Wars. A monumental work of literature.",
+    "publishedYear": 1869,
+    "downloadUrl": "https://example.com/war-peace.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=War+and+Peace"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "category": "Story",
+    "rating": 4.6,
+    "summary": "A novel about love, marriage, and society in 19th century Russia. A tragedy of passion.",
+    "publishedYear": 1877,
+    "downloadUrl": "https://example.com/anna-karenina.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Anna+Karenina"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "category": "Story",
+    "rating": 4.7,
+    "summary": "A philosophical novel about faith, doubt, and morality. A profound exploration of human nature.",
+    "publishedYear": 1880,
+    "downloadUrl": "https://example.com/brothers-karamazov.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Brothers+Karamazov"
+  },
+  {
+    "title": "Mulan",
+    "author": "Various (Literary Adaptations)",
+    "category": "Movies",
+    "rating": 4.5,
+    "summary": "Based on a legendary Chinese warrior woman. A story of courage and identity.",
+    "publishedYear": 1998,
+    "downloadUrl": "https://example.com/mulan.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Mulan"
+  },
+  {
+    "title": "The Lion King",
+    "author": "Various (Literary Adaptations)",
+    "category": "Movies",
+    "rating": 4.6,
+    "summary": "An epic tale of a lion prince's journey to reclaim his throne. Rich with themes of responsibility.",
+    "publishedYear": 1994,
+    "downloadUrl": "https://example.com/lion-king.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Lion+King"
+  },
+  {
+    "title": "Sonnet 18",
+    "author": "William Shakespeare",
+    "category": "Poem",
+    "rating": 4.8,
+    "summary": "Shakespeare's most famous sonnet celebrating beauty and immortality. A masterpiece of English poetry.",
+    "publishedYear": 1609,
+    "downloadUrl": "https://example.com/sonnet-18.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Sonnet+18"
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "category": "History",
+    "rating": 4.5,
+    "summary": "The legendary account of the Trojan War. Foundation of Western epic poetry.",
+    "publishedYear": 1604,
+    "downloadUrl": "https://example.com/iliad.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=The+Iliad"
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "category": "History",
+    "rating": 4.5,
+    "summary": "A novel set during the French Revolution featuring love and sacrifice. Famous for redemption themes.",
+    "publishedYear": 1859,
+    "downloadUrl": "https://example.com/tale-two-cities.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Tale+of+Two+Cities"
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "category": "Story",
+    "rating": 4.5,
+    "summary": "A coming-of-age novel about ambition and social class in Victorian England. Explores personal growth.",
+    "publishedYear": 1861,
+    "downloadUrl": "https://example.com/great-expectations.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Great+Expectations"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "category": "Story",
+    "rating": 4.6,
+    "summary": "A psychological novel about vanity and corruption. A gothic tale of moral decay.",
+    "publishedYear": 1890,
+    "downloadUrl": "https://example.com/dorian-gray.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Dorian+Gray"
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "category": "Story",
+    "rating": 4.5,
+    "summary": "A novel contrasting emotional and rational approaches to life and love. Austen's debut novel.",
+    "publishedYear": 1811,
+    "downloadUrl": "https://example.com/sense-sensibility.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Sense+Sensibility"
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "category": "Story",
+    "rating": 4.6,
+    "summary": "A witty novel about a young woman's romantic misadventures and personal growth. Austen's most uplifting work.",
+    "publishedYear": 1815,
+    "downloadUrl": "https://example.com/emma.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Emma"
+  },
+  {
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "category": "Story",
+    "rating": 4.6,
+    "summary": "A romantic novel about second chances and enduring love. Austen's final completed novel.",
+    "publishedYear": 1817,
+    "downloadUrl": "https://example.com/persuasion.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Persuasion"
+  },
+  {
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "category": "Mystery",
+    "rating": 4.7,
+    "summary": "A gothic mystery about a new wife haunted by her husband's first wife. Psychological suspense at its finest.",
+    "publishedYear": 1938,
+    "downloadUrl": "https://example.com/rebecca.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Rebecca"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "category": "Story",
+    "rating": 4.6,
+    "summary": "An epic novel about a family's struggle during the Great Depression. A powerful social commentary.",
+    "publishedYear": 1939,
+    "downloadUrl": "https://example.com/grapes-wrath.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Grapes+of+Wrath"
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "category": "Story",
+    "rating": 4.5,
+    "summary": "A novella about friendship and the American Dream. A poignant tale of hope and tragedy.",
+    "publishedYear": 1937,
+    "downloadUrl": "https://example.com/mice-men.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Mice+and+Men"
+  },
+  {
+    "title": "The Yellow Wallpaper",
+    "author": "Charlotte Perkins Gilman",
+    "category": "Horror",
+    "rating": 4.6,
+    "summary": "A short story about a woman's psychological breakdown. An early feminist critique of medical treatment.",
+    "publishedYear": 1892,
+    "downloadUrl": "https://example.com/yellow-wallpaper.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Yellow+Wallpaper"
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "category": "Poem",
+    "rating": 4.5,
+    "summary": "A science fiction novel exploring consciousness and reality. Basis for the Blade Runner films.",
+    "publishedYear": 1968,
+    "downloadUrl": "https://example.com/androids.pdf",
+    "coverImage": "https://via.placeholder.com/300x400?text=Androids"
+  }
+]
