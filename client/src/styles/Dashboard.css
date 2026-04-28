@@ -1,0 +1,128 @@
+/* Dashboard Styles */
+.dashboard {
+  max-width: 1400px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.dashboard-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3rem;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.profile-section {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.profile-icon {
+  width: 80px;
+  height: 80px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+}
+
+.profile-info h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.8rem;
+}
+
+.profile-info p {
+  margin: 0;
+  opacity: 0.9;
+}
+
+.logout-btn {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border-radius: 25px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+.logout-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px);
+}
+
+.saved-books-section {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.saved-books-section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 2rem;
+}
+
+.no-books {
+  text-align: center;
+  padding: 3rem;
+  color: #999;
+}
+
+.no-books p {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
+.explore-btn {
+  background: #667eea;
+  color: white;
+  padding: 0.8rem 2rem;
+  border-radius: 25px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.explore-btn:hover {
+  background: #5568d3;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .dashboard {
+    padding: 1rem;
+  }
+
+  .dashboard-header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .profile-section {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .books-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1rem;
+  }
+}

@@ -1,0 +1,113 @@
+/* Reader Page Styles */
+.reader-page {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.reader-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.back-btn {
+  padding: 0.8rem 1.5rem;
+  background: #667eea;
+  color: white;
+  border-radius: 25px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+.back-btn:hover {
+  background: #5568d3;
+  transform: translateX(-4px);
+}
+
+.reader-header h1 {
+  flex: 1;
+  font-size: 2rem;
+  color: #333;
+}
+
+.download-btn {
+  padding: 0.8rem 1.5rem;
+  background: #27ae60;
+  color: white;
+  border-radius: 25px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+.download-btn:hover {
+  background: #229954;
+}
+
+.reader-metadata {
+  background: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.reader-metadata p {
+  margin: 0;
+  color: #555;
+}
+
+.reader-metadata strong {
+  color: #333;
+}
+
+.reader-content {
+  line-height: 1.8;
+  color: #444;
+  font-size: 1.05rem;
+}
+
+.content-text p {
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+.reader-loading,
+.reader-error {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.reader-error {
+  color: #c33;
+}
+
+@media (max-width: 768px) {
+  .reader-page {
+    padding: 1rem;
+  }
+
+  .reader-header {
+    flex-direction: column;
+  }
+
+  .reader-header h1 {
+    font-size: 1.5rem;
+  }
+}
